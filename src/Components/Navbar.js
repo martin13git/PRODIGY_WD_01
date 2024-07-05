@@ -21,7 +21,7 @@ export default function Navbar({ activePage }) {
         <div>
             <nav className="navbar navbar-expand-lg navbar-custom fixed-top">
                 <div className="container-fluid">
-                    <img src="/logo192.png" alt="" width="auto" height="45" className="d-inline-block align-text-top" />
+                    <img src="%PUBLIC_URL%/logo192.png" alt="" width="auto" height="45" className="d-inline-block align-text-top" />
                     <a className="navbar-brand" href="#">
                         <span style={travelStyle}>Untamed</span>
                         <span style={usStyle}>Voyage</span>
