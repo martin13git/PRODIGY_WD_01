@@ -50,7 +50,7 @@ return (
             <div className='footer'>
                 <div className='footer-brand'>
                     <div className="footer-img d-flex flex-column">
-                        <img src="/logo192.png" alt="" width="100" height="auto" className="d-inline-block" />
+                        <img src="./logo192.png" alt="" width="100" height="auto" className="d-inline-block" />
                         <a className="foot-brand" href="#">
                             <span style={travelStyle}>Untamed</span><span style={usStyle}>Voyage</span>
                         </a>

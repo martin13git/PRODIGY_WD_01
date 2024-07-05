@@ -101,12 +101,12 @@ export default function Header() {
             <div className='headerimg'>
                 <div className="slideshow-container">
                     <div className="slideshow" style={slideStyle}>
-                        <img src="/image1.jpg" alt="" className="slideshow-img" />
-                        <img src="/image2.jpg" alt="" className="slideshow-img" />
-                        <img src="/image3.jpg" alt="" className="slideshow-img" />
-                        <img src="/image4.jpg" alt="" className="slideshow-img" />
-                        <img src="/image5.jpg" alt="" className="slideshow-img" />
-                        <img src="/image6.jpg" alt="" className="slideshow-img" />
+                        <img src="./image1.jpg" alt="" className="slideshow-img" />
+                        <img src="./image2.jpg" alt="" className="slideshow-img" />
+                        <img src="./image3.jpg" alt="" className="slideshow-img" />
+                        <img src="./image4.jpg" alt="" className="slideshow-img" />
+                        <img src="./image5.jpg" alt="" className="slideshow-img" />
+                        <img src="./image6.jpg" alt="" className="slideshow-img" />
                     </div>
                 </div>
             </div>
